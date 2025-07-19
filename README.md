@@ -2,7 +2,7 @@
 该项目实现了自动化下载哥白尼海洋数据存储系统中的数据，具体而言就是数据下载脚本，能够解放双手，提高下载效率  
 The project has automated the downloading of data from the Copernicus Marine Data Store, specifically through data download scripts, freeing up manual effort and improving download efficiency.  
 ## 项目结构  
-- doc文件夹：存储了Copernicus Marine Data Store的详细信息pdf文件
+- CMEMS-GLO-PUM-001-030.pdf：Copernicus Marine Data Store的详细信息pdf文件
 - check_data.py：用于检查已下载数据的完整（因为远程下载的数据未必完整）
 - GetDataCMEMS.py：用于实现下载逻辑的类
 - main.py：下载入口
